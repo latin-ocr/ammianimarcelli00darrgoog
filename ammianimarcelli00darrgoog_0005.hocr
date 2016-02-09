@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "ammianimarcelli00darrgoog_0005.png"; bbox 0 0 877 1190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 422 853 720 918">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 422 853 720 918">
+     <span class='ocr_line' id='line_1_1' title="bbox 422 853 720 918; baseline 0.01 -6.104"><span class='ocrx_word' id='word_1_1' title='bbox 422 853 720 918; x_wconf 44' lang='lat' dir='ltr'>&amp;fflissfflfffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 279 909 817 1000">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 279 909 817 1000">
+     <span class='ocr_line' id='line_1_2' title="bbox 279 909 817 1000; baseline 0.004 -34.05"><span class='ocrx_word' id='word_1_2' title='bbox 279 920 554 983; x_wconf 54' lang='lat' dir='ltr'>*ssffissfffflmff</span> <span class='ocrx_word' id='word_1_3' title='bbox 564 933 745 969; x_wconf 54' lang='lat' dir='ltr'>“ff‘mm</span> <span class='ocrx_word' id='word_1_4' title='bbox 706 934 785 1000; x_wconf 39' lang='grc' dir='ltr'>ᾧ,</span> <span class='ocrx_word' id='word_1_5' title='bbox 748 909 817 955; x_wconf 38' lang='lat' dir='ltr'>⁶st</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 858 19 877 878">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 858 19 877 878">
+     <span class='ocr_line' id='line_1_3' title="bbox 858 19 877 878; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 866 466 877 878; x_wconf 47' lang='grc' dir='ltr'>εα-Ξ-ε-Δ-...Δ--Α</span> <span class='ocrx_word' id='word_1_7' title='bbox 861 81 877 451; x_wconf 31' lang='grc' dir='ltr'>-ιὲ-ΜΑῈΒ*</span> <span class='ocrx_word' id='word_1_8' title='bbox 858 44 873 62; x_wconf 60' lang='grc' dir='ltr'><em>ὀ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 875 19 877 22; x_wconf 86' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
